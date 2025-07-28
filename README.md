@@ -1,5 +1,8 @@
 # Repository for Paper: "Modeling Cultural Evolution Processes in Dressel 20 Amphora Production during the Roman Empire"
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16541212.svg)](https://doi.org/10.5281/zenodo.16541212)
+
+
 This repository contains data and scripts used in the manuscript title, "Modelling cultural evolution processes in Dressel 20 amphora production during the Roman Empire" by María Coto-Sarmiento and Simon Carrignon (2025) to be published  in the Journal of Archaeological Science as part of the Special Issue “Novel Approaches to Past Transportation Networks”.
 
 The repository is organised into the following main directories:
